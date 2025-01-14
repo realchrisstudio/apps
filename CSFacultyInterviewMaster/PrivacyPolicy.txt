@@ -1,0 +1,72 @@
+Privacy Policy
+
+Effective Date: 14/01/2025
+
+Introduction
+
+Thank you for using the CS Faculty Job Interview Master app ("App"). This Privacy Policy explains how we collect, use, and protect your information when you use our App. By using the App, you agree to the terms outlined in this Privacy Policy.
+
+Information We Collect
+
+We collect the following types of information to provide and improve our services:
+
+1. Information You Provide
+
+Audio Recordings: When you record answers to questions, the recordings are stored locally on your device. The App does not upload or share these recordings unless you choose to share them.
+
+Preferences and Settings: Any preferences or settings you adjust within the App, such as timer durations or question order.
+
+2. Automatically Collected Information
+
+Device Information: We may collect device-specific information such as device model, operating system version, and unique identifiers for troubleshooting and analytics.
+
+Usage Data: Information about how you use the App, including the features you access, may be collected to improve the App experience.
+
+How We Use Your Information
+
+We use the information we collect for the following purposes:
+
+To provide and enhance the functionality of the App.
+
+To store your preferences locally on your device.
+
+To enable you to track your progress and review recorded answers.
+
+Data Storage and Retention
+
+Local Storage: All data, including audio recordings and preferences, are stored locally on your device. We do not access, store, or transfer your data to any external servers.
+
+Retention Period: Data is retained as long as the App remains installed on your device. You may delete data manually through the App's settings or by uninstalling the App.
+
+Sharing of Information
+
+We do not share your personal information or any locally stored data with third parties, except in the following cases:
+
+With Your Consent: If you choose to share audio recordings or other data.
+
+Legal Requirements: If required by law, we may disclose information to comply with legal obligations.
+
+Security
+
+We implement reasonable security measures to protect your information from unauthorized access, alteration, or destruction. However, no method of data transmission or storage is 100% secure, and we cannot guarantee absolute security.
+
+Your Rights
+
+You have the following rights concerning your data:
+
+Access: Access data stored locally on your device.
+
+Deletion: Delete audio recordings or reset preferences through the App's settings.
+
+Control: Control which features of the App you use and disable permissions such as microphone access at any time.
+
+Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time to reflect changes in our practices or for legal and regulatory reasons. We encourage you to review this Privacy Policy periodically.
+
+Contact Us
+
+If you have any questions or concerns about this Privacy Policy, please contact us at:
+
+Email: csytang.uk@gmail.com
+Website: https://realchrisstudio.github.io/
